@@ -6,6 +6,9 @@
               <a href="dashboard.php"><i class="fa fa-home nav_icon"></i>Dashboard</a>
             </li>
             <li>
+              <a href="http://localhost/bpms/pdf.php"><i class="fa fa-home nav_icon"></i>buyed orders Report</a>
+            </li>
+            <li>
               <a href="add-services.php"><i class="fa fa-cogs nav_icon"></i>Services<span class="fa arrow"></span> </a>
               <ul class="nav nav-second-level collapse">
                 <li>
